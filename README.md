@@ -24,3 +24,4 @@ El script cambia el precio, agrega un +65%.
 Y al pasar el cursor sobre el cuadro de +65%, se muestra el precio original. 
 Y es posible que no funcione en algunos precios. 
 
+Credito por este script: http://perberos.me/
